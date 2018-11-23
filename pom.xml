@@ -32,7 +32,7 @@
     </dependencies>   
     
     <build>
-        <finalName>excelreader</finalName>
+        <finalName>encryptDecrypt</finalName>
         <resources>
             <resource>
                 <directory>src/resources</directory>

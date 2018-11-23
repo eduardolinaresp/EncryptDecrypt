@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.edward.encryptdecryptmanualTest;
+package com.edward.encryptdecrypMain;
 
 import com.edward.encryptdecrypt.EncryptDecrypt;
 
@@ -11,7 +11,7 @@ import com.edward.encryptdecrypt.EncryptDecrypt;
  *
  * @author ext_ealinares
  */
-public class EncryptDecryptTest {
+public class EncryptDecryptMain {
 
     public static void main(String[] args) throws Exception {
 
